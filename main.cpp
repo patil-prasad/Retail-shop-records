@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+// class for storing product record 
 struct stock
 {
 	string name;
